@@ -27,6 +27,8 @@ The dataset contains sample face images used for recognition.
 Author
 Mohamed Hazem
 LinkedIn: https://www.linkedin.com/in/mohamedhazem301
-Demo
+
+
+## Demo
 
 ![Demo](Mohammed.jpeg)
