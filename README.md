@@ -31,3 +31,9 @@ LinkedIn: https://www.linkedin.com/in/mohamedhazem301
 Demo
 
 ![Face Recognition Demo](Neymar.jpg)
+
+
+## Documentation
+- Full Project Report: [Click here](./Project_Report.pdf)
+- Demo Images included
+- Attendance CSV + HTML report generation
