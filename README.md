@@ -33,7 +33,8 @@ Demo
 ![Face Recognition Demo](Neymar.jpg)
 
 
-## Documentation
-- Full Project Report: [Click here](./Project_Report.pdf)
-- Demo Images included
-- Attendance CSV + HTML report generation
+
+##  Documentation
+- Full Project Report: [View Report](./Face_Recognition_Attendance_Report.pdf)
+-  Demo Images included
+  - Outputs: CSV attendance log + HTML report + annotated images
